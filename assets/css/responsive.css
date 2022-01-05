@@ -1,0 +1,20 @@
+@media (max-width: 1242px) {
+    .header__logo {
+        margin-right: 15px;
+    }
+    
+    .header__menu-packages {
+        width: 30%;
+    }
+    
+
+    .best-vocation__slider-content {
+        width: 75%;
+    }
+}
+
+@media (max-width: 1192px) {
+    .header {
+        display: none;
+    }
+}
